@@ -21,7 +21,7 @@ If you prefer to run the app locally, you can clone the repository and follow th
 
 ## Contributing
 
-We welcome contributions from the community! If you would like to contribute to the development of the Burger Builder App, please see the [Contributing Guidelines](CONTRIBUTING.md) for more information.
+We welcome contributions from the community! If you would like to contribute to the development of the Todo-App, please see the [Contributing Guidelines](CONTRIBUTING.md) for more information.
 
 ## License
 
